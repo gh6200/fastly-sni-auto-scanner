@@ -1,0 +1,8 @@
+pbs.twimg.com
+cdnjs.cloudflare.com
+global.ssl.fastly.net
+assets.fastly.net
+use.fontawesome.com
+static-assets.codecademy.com
+fastly-global.cdn.ampproject.org
+www.fastly.com
